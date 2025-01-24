@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\MessageBox-main\MessageBox-main\main.cpp">
+    <ClCompile Include="..\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\MessageBox-main\MessageBox-main\MessageBox.h">
+    <ClInclude Include="..\MessageBox.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
