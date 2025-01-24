@@ -1,5 +1,6 @@
 # MessageBox
-�I am learning Git!� 
+“I am learning Git!” 
+“I am learning GitHub”
 Sample C++ Data Structures code.
 
 Base example used for GitHub lab. 
